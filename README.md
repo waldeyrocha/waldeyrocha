@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there 👋
+
+🙋🏻‍♀️ About me
+Currently studying at Rocketseat's course: Explorer - Full Stack Developer Program
+
+📖 Learning
+html-symbol css-symbol javascript-symbol
+
+
 
 <!--
 **waldeyrocha/waldeyrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
