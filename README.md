@@ -1,10 +1,10 @@
 Hi there 👋
 
-🙋🏻‍♀️ About me
+🙋🏻‍ About me
 Currently studying at Rocketseat's course: Explorer - Full Stack Developer Program
 
 📖 Learning
-html-symbol css-symbol javascript-symbol
+html css javascript
 
 
 
